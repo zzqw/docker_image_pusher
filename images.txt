@@ -1,1 +1,4 @@
 vinlic/kimi-free-api:latest
+vinlic/deepseek-free-api:latest
+vinlic/doubao-free-api:latest
+vinlic/qwen-free-api:latest
